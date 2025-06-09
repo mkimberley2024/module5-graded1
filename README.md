@@ -2,3 +2,5 @@
 
 * ChatGPT used to create sameple data in src/tsv/ directory
 * BeeKeeper Studio used to interactively query database
+
+Use run.sh to launch the application
