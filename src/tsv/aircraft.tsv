@@ -1,0 +1,11 @@
+aircraft_id	registration_number	model	capacity	status
+1	G-ABCD	Boeing 737	180	Operational
+2	G-EFGH	Airbus A320	200	Operational
+3	G-IJKL	Boeing 747	400	Under Maintenance
+4	G-MNOP	Airbus A380	850	Operational
+5	G-QRST	Embraer E190	100	Operational
+6	G-UVWX	Boeing 767	250	Operational
+7	G-YZAB	Airbus A321	220	Operational
+8	G-CDEF	Boeing 787	300	Operational
+9	G-GHIJ	Airbus A330	270	Operational
+10	G-KLMN	Embraer E175	88	Operational

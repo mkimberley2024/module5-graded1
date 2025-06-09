@@ -1,0 +1,11 @@
+*.db
+*.pyc
+src/__pycache__/
+*.pyd
+*.pyc
+*.log
+*.sqlite3
+*.db-journal
+*.env
+*.venv
+*.log
